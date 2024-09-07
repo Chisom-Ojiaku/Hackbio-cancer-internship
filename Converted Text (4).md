@@ -24,7 +24,7 @@ This article helps us understand different machine learning and Deeping learning
 
 **Reference:**
 
-Li Y, Wu X, Yang P, Jiang G, Luo Y. Machine Learning for Lung Cancer Diagnosis, Treatment, and Prognosis. Genomics Proteomics Bioinformatics. 2022 Oct;20(5):850-866. doi: 10.1016/j.gpb.2022.11.003. Epub 2022 Dec 1. PMID: 36462630; PMCID: PMC10025752.****
+**Li Y, Wu X, Yang P, Jiang G, Luo Y. Machine Learning for Lung Cancer Diagnosis, Treatment, and Prognosis. Genomics Proteomics Bioinformatics. 2022 Oct;20(5):850-866. doi: 10.1016/j.gpb.2022.11.003. Epub 2022 Dec 1. PMID: 36462630; PMCID: PMC10025752.**
 
  
 
