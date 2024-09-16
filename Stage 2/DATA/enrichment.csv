@@ -1,0 +1,8 @@
+Enrichment FDR,nGenes,Pathway Genes,Fold Enrichment,Pathway,URL,Genes
+2.12E-07,11,99,11.99213836,Path:hsa04061 Viral protein interaction with cytokine and cytokine receptor,http://www.genome.jp/kegg-bin/show_pathway?hsa04061 , CXCL13  IL24  CXCL8  CXCL10  CXCL9  PPBP  CCL7  CCL13  CCL17  CCL19  CXCL11
+0.000127081,8,93,9.284236153,Path:hsa04657 IL-17 signaling pathway,http://www.genome.jp/kegg-bin/show_pathway?hsa04657 , CSF2  CSF3  CXCL8  CXCL10  LCN2  MMP13  CCL7  CCL17
+0.001582841,7,99,7.631360778,Path:hsa04640 Hematopoietic cell lineage,http://www.genome.jp/kegg-bin/show_pathway?hsa04640 , CR1  CR2  CSF2  CSF3  EPO  CD1B  CD8B
+6.63E-08,18,294,6.607912977,Path:hsa04060 Cytokine-cytokine receptor interaction,http://www.genome.jp/kegg-bin/show_pathway?hsa04060 , CXCL13  IL24  CSF2  CSF3  GDF7  EPO  CXCL8  INHBC  CXCL10  LEP  CXCL9  PPBP  CCL7  CCL13  CCL17  CCL19  CXCL11  GDF3
+0.034476211,5,85,6.348779134,Path:hsa04610 Complement and coagulation cascades,http://www.genome.jp/kegg-bin/show_pathway?hsa04610 , CR1  CR2  SERPIND1  C4BPA  C6
+0.013712132,6,103,6.287140502,Path:hsa04974 Protein digestion and absorption,http://www.genome.jp/kegg-bin/show_pathway?hsa04974 , COL1A1  COL5A1  COL6A3  COL7A1  COL10A1  CPA3
+0.000123117,11,191,6.215820409,Path:hsa04062 Chemokine signaling pathway,http://www.genome.jp/kegg-bin/show_pathway?hsa04062 , CXCL13  CXCL8  CXCL10  CXCL9  PIK3CD  PPBP  CCL7  CCL13  CCL17  CCL19  CXCL11
