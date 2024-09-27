@@ -5,8 +5,7 @@
 **R script:** (https://github.com/Chisom-Ojiaku/Hackbio-cancer-internship/blob/09310740925546dba37d03bdd99b848ab65180a5/Stage%203/Code/stage3_script.R)
 
 
-**Figures:**  https://github.com/MercyOFrancis/hackbio-cancer-internship/tree/a374ccce1e603791a8c4cab8ccc2a9d7e8a2c42f/Stage%203/Figures%20%26%20Visualization
-
+**Figures:** (https://github.com/Chisom-Ojiaku/Hackbio-cancer-internship/tree/3748d9214ab4351d2b9b4c488248f0198beca829/Stage%203/Figures)
 
  ## Introduction 
 Colon adenocarcinoma (COAD) is a prevalent and deadly cancer, often complicated by late diagnosis and treatment resistance [1]. The Cancer Genome Atlas (TCGA) has significantly advanced COAD research by providing extensive omics and clinical data, enhancing our understanding of COAD’s molecular landscape and revealing potential biomarkers essential for improving prognosis and developing personalized treatment strategies [2].
