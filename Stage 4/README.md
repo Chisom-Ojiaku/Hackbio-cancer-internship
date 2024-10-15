@@ -13,7 +13,7 @@ This project aims to discover biomarkers in glioma by integrating machine learni
 - Ariyo Adesokan (@Adesokan_ariyo1)
 
 ## Repository Contents
-- R script: [stage4_script.R](https://github.com/MercyOFrancis/hackbio-cancer-internship/blob/0d4d132f6167f1a0306140432d7e4aee791d20c8/Stage%204/Code/stage4_script.R)
+- R script: [stage4_script.R](https://github.com/Chisom-Ojiaku/Hackbio-cancer-internship/blob/main/Stage%204/Report/Report%20glioma.md)
 - Figures: [Figures directory](https://github.com/Chisom-Ojiaku/Hackbio-cancer-internship/tree/c8ceb615488fccd4d27bbfefd121c7bf9e5251b3/Stage%204/Figures)
 
 ## Methodology
