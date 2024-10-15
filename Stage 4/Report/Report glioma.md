@@ -1,8 +1,8 @@
 # Integrating Machine Learning and Differential Expression Analysis for Biomarker Discovery in Glioma 🧬💻🤖
 
- **Authors:**  Mercy Francis (@Mercylee),  Ojiaku Confidence Chisom (@Areta), Manal Agdada (@Manal), Rahma Nabil Sallam (@rahmanabil2002), Pascal Onaho (@PascalOnaho), Hagar Haitham Elazab (@HBONH33), Ariyo Adesokan (@Adesokan_ariyo1)
+ **Authors:**  Ojiaku Confidence Chisom (@Areta), Mercy Francis (@Mercylee), Manal Agdada (@Manal), Rahma Nabil Sallam (@rahmanabil2002), Pascal Onaho (@PascalOnaho), Hagar Haitham Elazab (@HBONH33), Ariyo Adesokan (@Adesokan_ariyo1)
 
-**R script:**  [Stage4_script.R](https://github.com/MercyOFrancis/hackbio-cancer-internship/blob/0d4d132f6167f1a0306140432d7e4aee791d20c8/Stage%204/Code/stage4_script.R)
+**R script:**  [Stage4_script.R](https://github.com/Chisom-Ojiaku/Hackbio-cancer-internship/tree/c8ceb615488fccd4d27bbfefd121c7bf9e5251b3/Stage%204/Code)
 
 **Figures:** [Figures directory](https://github.com/MercyOFrancis/hackbio-cancer-internship/tree/0d4d132f6167f1a0306140432d7e4aee791d20c8/Stage%204/Figures)
 
